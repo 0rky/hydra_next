@@ -21,7 +21,7 @@ process Hydra_fetch {
         process=process.stdout
         paths=[]
         for path in process.split():
-                if path.startswith("$x"):
+                if path.startswith("$x/"):
                         paths.append(path)
         for files in paths:
                 filename=os.path.basename(files)
