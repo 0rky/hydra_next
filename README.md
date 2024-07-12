@@ -28,7 +28,7 @@ Since nextflow only supports POSIX standard filesystems, we have to stage the fi
 
 ### ASSUMING THE DATA IS ALREADY IN THE CLUSTER
 
-Change directory to the cloned repo and run the following commands.  
+Change directory to the cloned repo and run the following commands. Create the necessary output and result folders. 
 
 To download the paired end reads from the cluster to perform QC
 ```
