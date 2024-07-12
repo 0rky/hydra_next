@@ -1,5 +1,7 @@
 # Implementing quality control (QC) with nextflow leveraging Hydra - an NDN based data storage
 
+To know more about Hydra please follow the link: https://github.com/tntech-ngin/ndn-hydra 
+
 ## Installation of Nextflow:
 
 #### Install SDKMAN and Java:
