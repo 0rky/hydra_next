@@ -21,7 +21,7 @@ mv nextflow /bin
 
 ## Running nextflow
 
-Install miniconda before proceeding. Nextflow will automatically install required QC packages with the help of miniconda.  
+<b>Install miniconda before proceeding.</b> Nextflow will automatically install required QC packages with the help of miniconda.  
 
 Since nextflow only supports POSIX standard filesystems, we have to stage the file first and then send it to the computation pipeline.
 
